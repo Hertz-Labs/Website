@@ -76,8 +76,6 @@ tabBar.forEach(function (tabBarInstance) {
             });
 
             panels[index].classList.add('active');
-            console.log(index);
-            console.log(panels);
         });
     });
 });
