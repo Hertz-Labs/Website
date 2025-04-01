@@ -8,6 +8,11 @@
     font-style: normal;
 }
 
+.akronim-regular {
+    font-family: "Akronim", system-ui;
+    font-weight: 400;
+    font-style: normal;
+}
 
 /* Basic Style and y mobile-first */
 body {
